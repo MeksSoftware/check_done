@@ -2,6 +2,7 @@
 [![Python Versions](https://img.shields.io/pypi/pyversions/check_done.svg)](https://www.python.org/downloads/)
 [![Build Status](https://github.com/siisurit/check_done/actions/workflows/build.yml/badge.svg)](https://github.com/roskakori/pygount/actions/workflows/build.yml)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
+[![codecov](https://codecov.io/gh/MeksSoftware/check_done/graph/badge.svg?token=HOIVFTRGGH)](https://codecov.io/gh/MeksSoftware/check_done)
 [![License](https://img.shields.io/github/license/siisurit/check_done)](https://opensource.org/licenses/BSD-3-Clause)
 
 # check_done
